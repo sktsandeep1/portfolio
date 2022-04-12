@@ -78,7 +78,7 @@ section > h2 {
 }
 
 a {
-  color: var(--color-light);
+  color: var(--color-primary);
   transition: var(--transition);
 }
 
