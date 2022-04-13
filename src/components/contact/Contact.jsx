@@ -30,7 +30,7 @@ const Contact = () => {
             <a href="mailto:sktsandeep1@gmail.com" target="_blank">Send a message</a>
           </article>
 
-          <article className="contact__option">
+          <article className="contact__option ">
             <BsTwitter className='contact__option-icon'/>  
             <h4>Twitter</h4>
             <h5>sktsandeep1</h5>

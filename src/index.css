@@ -10,10 +10,10 @@
   text-decoration: none;
 }
 :root {
-  --color-bg: #1f1f38;
-  --color-bg-variant: #2c2c6c;
-  --color-primary: #4db5ff;
-  --color-primary-variant: rgba(77, 81, 255, 0.4);
+  --color-bg: #21381f;
+  --color-bg-variant: #2c6c2c;
+  --color-primary: #6bff4d;
+  --color-primary-variant: rgba(107, 255, 77, 0.4);
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6);
 
@@ -32,9 +32,8 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url('../src/assets/oliver-cole-ZERJbl7MhzQ-unsplash.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(rgb(36, 63, 36), rgb(18, 29, 18));
+
 }
 
 /* ---------------------------------------------------------------------------- */

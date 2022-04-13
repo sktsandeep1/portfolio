@@ -13,10 +13,17 @@
 .contact__option{
     background: var(--color-bg-variant);
     padding: 1.2rem;
-    border-radius: 1.2rem;
+    border-radius: 100px 100px 0 0;
     text-align: center;
     border: 1px solid transparent;
     transition: var(--trainsition);
+}
+
+.contact__options :nth-child(2){
+    border-radius: 50%;   
+}
+.contact__options :nth-child(3){
+    border-radius: 0 0 100px 100px; 
 }
 
 .contact__option:hover{

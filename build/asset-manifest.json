@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e249bb08.css",
+    "main.js": "/static/js/main.a6ba1ec8.js",
+    "static/media/oliver-cole-ZERJbl7MhzQ-unsplash.jpg": "/static/media/oliver-cole-ZERJbl7MhzQ-unsplash.e25b114806b3f49b4d94.jpg",
+    "static/media/me.png": "/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/Sandeep-Kumar.pdf": "/static/media/Sandeep-Kumar.64f38565572029d9a3f8.pdf",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/index.html",
+    "main.e249bb08.css.map": "/static/css/main.e249bb08.css.map",
+    "main.a6ba1ec8.js.map": "/static/js/main.a6ba1ec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e249bb08.css",
+    "static/js/main.a6ba1ec8.js"
+  ]
+}
