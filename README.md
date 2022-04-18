@@ -1,4 +1,6 @@
-###[Click here](https://github.com/sktsandeep1/portfolio)
+###[Click here](https://sktsandeep1.github.io/portfolio/)
+
+or you can go through these steps
 
 # Getting Started with Create React App
 
