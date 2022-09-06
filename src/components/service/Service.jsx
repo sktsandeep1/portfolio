@@ -21,13 +21,6 @@ const Service = () => {
             <small className="text-light">Desktop, Ipad, Mobile</small>
           </div>
         </article>
-        <article className="service">
-          <BsPatchCheckFill className="experience__details-icon" />
-          <div className="service__head">
-            <h3>Redesign</h3>
-            <small className="text-light">Web Pages</small>
-          </div>
-        </article>
       </div>
     </section>
   );

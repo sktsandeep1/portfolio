@@ -24,3 +24,33 @@
   margin-top: 6px;
   color: var(--color-primary);
 }
+
+/* ---------------------------------------------------------------------------- */
+/* -------------- MEDIA QUERIES (MEDIUM DEVICES) -------------- */
+/* ---------------------------------------------------------------------------- */
+
+@media screen and (max-width: 1024px) {
+  .service__container > div {
+    width: 80%;
+    padding: 2rem;
+    margin: 0 auto;
+  }
+  .experience__content {
+    padding: 1rem;
+  }
+}
+
+/* ---------------------------------------------------------------------------- */
+/* -------------- MEDIA QUERIES (SMALL DEVICES) -------------- */
+/* ---------------------------------------------------------------------------- */
+
+@media screen and (max-width: 600px) {
+  .service__container > div {
+    width: 100%;
+    padding: 2rem 1rem;
+  }
+  .service__container {
+    display: grid;
+    grid-template-areas: "one";
+  }
+}
